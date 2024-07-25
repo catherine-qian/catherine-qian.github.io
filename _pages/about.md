@@ -31,9 +31,13 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
 
 🔥 News
+- 2024.07   two ACM MM paper accepted!
+- 2024.05   one IJSR paper accepted!
+- 2024.04   two INTERSPEECH paper accepted!
 - 2024.02   one PRL paper accepted!
 - 2023.12   three ICASSP paper accepted!
 - 2023.11   Dr. Qian has been assigned as the IEEE Senior Member
+- 2023.12   one TCSVT paper accepted!
 - 2023.09   one TMM paper accepted!
 - 2023.06   Dr. Qian passed the Tenure-track 
 - 2023.05   two INTERSPEECH paper accepted!
@@ -97,9 +101,13 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
  -->
 
 -- **2024** --
+- **Xinyuan Qian**, Jingkai Xu, Yuxuan Gao, Minshu Li, Wanlin Li, Xu-Cheng Yin, [Understanding Dynamic Auditory Perception for
+Water Filling Level Estimation], *IJSR*, 2024
+- **Xinyuan Qian**, Hao Tang, Jichen Yang, Hongxu Zhu, Xu-Cheng Yin, [Dual-Path Transformer-Based GAN for Co-speech Gesture Synthesis](https://link.springer.com/article/10.1007/s12369-024-01136-y), *IJSR*, 2024
 - Yan Liu; Li_fang Wei; **Xinyuan Qian<sup>`*`</sup>**; Tianhao Zhang; Songlu Chen; Xucheng Yin, [M3TTS: Multi-Modal Text-to-Speech of Multi-Scale Style Control for Dubbing], *PRL*, 2024
+- Miao Liu, Jing Wang, **Xinyuan Qian**, Xiang Xie, [Visually Guided Binaural Audio Generation with Cross-Modal Consistency](https://ieeexplore.ieee.org/abstract/document/10446399/), *PRL*, 2024
 - Yu Chen, **Xinyuan Qian<sup>`*`</sup>**, Zexu Pan, Kainan Chen, Haizhou Li, [LocSelect: Target Speaker Localization with an Auditory Selective Hearing Mechanism](https://arxiv.org/pdf/2310.10497.pdf), *ICASSP*, 2024
-- **Xinyuan Qian**, Zexu Pan, Qiquan Zhang, Kainan Chen, Shoufeng Lin, [GLMB 3D speaker tracking with video-assisted multi-channel audio optimization functions], *ICASSP*, 2024
+- **Xinyuan Qian**, Zexu Pan, Qiquan Zhang, Kainan Chen, Shoufeng Lin, [GLMB 3D speaker tracking with video-assisted multi-channel audio optimization functions]（https://ieeexplore.ieee.org/abstract/document/10446460）, *ICASSP*, 2024
 
 -- **2023** --
 - Miao Liu, Jing Wang, **Xinyuan Qian**, Haizhou Li, [Audio-Visual Temporal Forgery Detection Using Embedding-Level Fusion and Multi-Dimensional Contrastive Loss](https://ieeexplore.ieee.org/abstract/document/10290956), *TCSVT*, 2023
