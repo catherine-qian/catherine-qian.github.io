@@ -23,7 +23,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态人机交互**研究，学生可以根据兴趣自由选择 
 
-<font color=red> 【课题组经费充足，科研氛围浓厚，现招收2024年入学计算机科学与技术硕士研究生、博士研究生，也欢迎优秀的本科生加入】</font>
+<font color=red> 【课题组经费充足，科研氛围浓厚，现招收2025年入学计算机科学与技术硕士研究生、博士研究生，也欢迎优秀的本科生加入】</font>
 欢迎计算机基础较好，有程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学联系我 (附CV及自我介绍，qianxy@ustb.edu.cn)
 你将获得：
 - 参加国内/国际会议的机会
@@ -101,6 +101,8 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
  -->
 
 -- **2024** --
+- Miao Liu, Jing Wang, **Xinyuan Qian**, Haizhou Li, [RListenFormer: Responsive Listening Head Generation with Generated Listening HGeeandesrated Listening Heads Non-autoregressive Transformers], **ACM MM**, 2024
+- Xianghu Yue, Xueyi Zhang, Yiming Chen, Chengwei Zhang, Mingrui Lao, Huiping Zhuang, **Xinyuan Qian<sup>`*`</sup>**, Haizhou Li, [MMAL: Multi-Modal Analytic Learning for Exemplar-Free Audio-Visual Class Incremental Tasks], **ACM MM**, 2024
 - **Xinyuan Qian**, Jingkai Xu, Yuxuan Gao, Minshu Li, Wanlin Li, Xu-Cheng Yin, [Understanding Dynamic Auditory Perception for
 Water Filling Level Estimation], **IJSR**, 2024
 - **Xinyuan Qian**, Hao Tang, Jichen Yang, Hongxu Zhu, Xu-Cheng Yin, [Dual-Path Transformer-Based GAN for Co-speech Gesture Synthesis](https://link.springer.com/article/10.1007/s12369-024-01136-y), **IJSR**, 2024
