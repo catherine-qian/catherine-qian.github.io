@@ -23,7 +23,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态人机交互**研究，学生可以根据兴趣自由选择 
 
-<font color=red> 【课题组经费充足，科研氛围浓厚，现招收2025年入学计算机科学与技术硕士研究生、博士研究生，也欢迎优秀的本科生加入】</font>
+<font color=red> 【课题组经费充足，科研氛围浓厚，现招收2026年入学计算机科学与技术硕士研究生、博士研究生，也欢迎优秀的本科生加入】</font>
 欢迎计算机基础较好，有程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学联系我 (附CV及自我介绍，qianxy@ustb.edu.cn)
 你将获得：
 - 参加国内/国际会议的机会
@@ -31,19 +31,14 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
 
 🔥 News
+- 2025.01   two TASLP paper accepted!
+- 2024.12   one AAAI paper accepted!
+- 2024.09   one ICASSP paper accepted!
 - 2024.07   two ACM MM paper accepted!
 - 2024.05   one IJSR paper accepted!
 - 2024.04   two INTERSPEECH paper accepted!
 - 2024.02   one PRL paper accepted!
-- 2023.12   three ICASSP paper accepted!
-- 2023.11   Dr. Qian has been assigned as the IEEE Senior Member
-- 2023.12   one TCSVT paper accepted!
-- 2023.09   one TMM paper accepted!
-- 2023.06   Dr. Qian passed the Tenure-track 
-- 2023.05   two INTERSPEECH paper accepted!
-- 2023.04   one TASLP paper accepted!
-- 2023.04   one CVPR paper accepted!
-- 2023.03   Dr. Qian was invited as an Associate Editor (AE) of IROS 2023 with the track of robotic audition
+
  
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
@@ -73,7 +68,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - *2010.09 - 2012.06*, B.Eng. in Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China. (Top: 3%)
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -100,7 +95,13 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - **Xinyuan Qian**, Jichen Yang, Alessio Brutti, [Speaker Front-back Disambiguity using Multi-channel Speech Signals](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12666?af=R), **Electronics Letters** 2022.
  -->
 
+-- **2025** --
+- Tianhao Zhang, Jiawei Zhang, Jun wang, **Xinyuan Qian<sup>`*`</sup>**, Xucheng Yin, [FaceSpeak: Expressive and High-Quality Speech Synthesis from Human Portraits of Different Styles](https://arxiv.org/pdf/2501.03181), **AAAI**, 2025
+- Ruijie Tao, **Xinyuan Qian**, Yidi Jiang, Junjie Li, Jiadong Wang, Haizhou Li, [Audio-Visual Target Speaker Extraction with Selective Auditory Attention](https://ieeexplore.ieee.org/abstract/document/10835186), **TASLP**, 2025
+- Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Haizhou Li, [Audio-Visual Target Speaker Extraction with Selective Auditory Attention](https://arxiv.org/pdf/2209.01768), **TASLP**, 2025
+
 -- **2024** --
+- **Xinyuan Qian**, Xianghu Yue, Jiadong Wang, Huiping Zhuang, Haizhou Li, [Analytic Class Incremental Learning for Sound Source Localization with Privacy Protection](https://arxiv.org/pdf/2409.07224), **SPL**, 2025
 - Miao Liu, Jing Wang, **Xinyuan Qian**, Haizhou Li, [RListenFormer: Responsive Listening Head Generation with Generated Listening HGeeandesrated Listening Heads Non-autoregressive Transformers], **ACM MM**, 2024
 - Xianghu Yue, Xueyi Zhang, Yiming Chen, Chengwei Zhang, Mingrui Lao, Huiping Zhuang, **Xinyuan Qian<sup>`*`</sup>**, Haizhou Li, [MMAL: Multi-Modal Analytic Learning for Exemplar-Free Audio-Visual Class Incremental Tasks], **ACM MM**, 2024
 - **Xinyuan Qian**, Jingkai Xu, Yuxuan Gao, Minshu Li, Wanlin Li, Xu-Cheng Yin, [Understanding Dynamic Auditory Perception for
