@@ -97,6 +97,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 -- **2025** --
 - Tianhao Zhang, Jiawei Zhang, Jun wang, **Xinyuan Qian<sup>`*`</sup>**, Xucheng Yin, [FaceSpeak: Expressive and High-Quality Speech Synthesis from Human Portraits of Different Styles](https://arxiv.org/pdf/2501.03181), **AAAI**, 2025
+- Wei Zhang, Tian-Hao Zhang, Chao Luo, Hui Zhou, Chao Yang, Xinyuan Qian, Xu-Cheng Yin, [Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition](https://arxiv.org/pdf/2501.03257), **ICASSP**, 2025
 - Ruijie Tao, **Xinyuan Qian**, Yidi Jiang, Junjie Li, Jiadong Wang, Haizhou Li, [Audio-Visual Target Speaker Extraction with Selective Auditory Attention](https://ieeexplore.ieee.org/abstract/document/10835186), **TASLP**, 2025
 - Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Haizhou Li, [Audio-Visual Target Speaker Extraction with Selective Auditory Attention](https://arxiv.org/pdf/2209.01768), **TASLP**, 2025
 
