@@ -31,6 +31,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
 
 🔥 News
+- 2025.03   one JSTSP paper accepted！
 - 2025.01   two TASLP paper accepted!
 - 2024.12   one AAAI paper accepted!
 - 2024.09   one ICASSP paper accepted!
@@ -70,7 +71,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -80,7 +81,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 <!-- # 📝 Representative Publications
  -- **Representative Works** --
 - **Xinyuan Qian**, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li, [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308)，**IEEE/ACM Transactions on Audio, Speech and Language Processing**, 2022.
@@ -153,6 +154,8 @@ and Acoustic Speech](https://ieeexplore.ieee.org/document/10285477)， **TMM**, 
 - Deepayan Bhowmik, Andrew Wallace, Robert Stewart, **Xinyuan Qian**, Greg Michaelson, [Profile driven dataflow optimisation of mean shift visual tracking](https://ieeexplore.ieee.org/document/7032066), **GlobalSIP**，2014. 
 
 # 🎖 Certifications and Awards
+- Outstanding Undergraduate Mentor，USTB, 2024
+- Best Student Paper Award, INTERSPEECH, 2024
 - Best Paper Award, COCOSDA, 2021
 - The 3rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
 - Outstanding international research associatant,  FBK, Trento, Italy, 2019
