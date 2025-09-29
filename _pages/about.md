@@ -31,8 +31,11 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
 
 🔥 News
+- 2025.08 🔔 Our Special Session in ICASSP 2026 【Multimodal Ambient Scene Perception, Understanding and Modeling】 has been announced! Please submit through 
+- 2025.08 🔔 Our workshop on Human-aware Embodied AI (HEAI@IROS’25) is calling for submissions! Check our site for more info or just write us: heai.iros25@gmail.com
+- 2025.09	获评ACM新星奖（北京）
 - 2025.07	入选北京市“高创计划”青年托举人才
-- 2025.07	获评北京图像图像学会最美女科技工作者
+- 2025.07	获评北京图象图形学会最美女科技工作者
 - 2025.03   one JSTSP paper accepted！
 - 2025.01   two TASLP paper accepted!
 - 2024.12   one AAAI paper accepted!
@@ -57,7 +60,8 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
   </tr>
 </table>
 
-# 💻 Research Experiences
+# 💻 Work Experiences
+- *2025.03 - Present*  国家自然科学基金委-中国21世纪议程管理中心
 - *2022.10 - Present*, Associate Professor, University of Science and Technology of Beijing (USTB), Beijing, China.
 - *2022.03 - 2022.09*, Visiting Scholar, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 - *2020.02 - 2022.02*, Research Fellow, National University of Singapore (NUS), Singapore.
