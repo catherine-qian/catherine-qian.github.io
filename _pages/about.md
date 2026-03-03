@@ -23,7 +23,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态人机交互**研究，学生可以根据兴趣自由选择 
 
-<font color=red> 【课题组经费充足，科研氛围浓厚，现招收2026年入学计算机科学与技术硕士研究生、博士研究生，也欢迎优秀的本科生加入】</font>
+<font color=red> 【课题组经费充足，科研氛围浓厚，现招收2026年入学计算机科学与技术硕士研究生（还有一个名额），也欢迎优秀的本科生加入】</font>
 欢迎计算机基础较好，有程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学联系我 (附CV及自我介绍，qianxy@ustb.edu.cn)
 你将获得：
 - 参加国内/国际会议的机会
@@ -31,7 +31,6 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
 
 🔥 News
-- 2026.02	<font color=red> 现依托深圳河套学院（国家人工智能实验室）招收2026年入学博士生(毕业可拿六所共建港校或内地联培学校学位)，感兴趣的请发送CV及个人研究兴趣到:qianxy@ustb.edu.cn【系统报名截止日期为2026.03.01，有推荐名额，务必提前联系】</font>
 - 2026.01	six ICASSP paper accepted!
 - 2025.09	获评ACM新星奖（北京）
 - 2025.07	入选北京市“高创计划”青年托举人才
