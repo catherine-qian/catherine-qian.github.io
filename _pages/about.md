@@ -27,6 +27,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 
 - <font color=red> 【招收2027年入学保研学生】</font>
+- <font color=red> 【招收2027年入学博士研究生】</font>
 - <font color=green> 【招收科研助理或实习生（可远程），适当提供补贴，可推荐至香港中文大学（深圳），意大利FBK研究所，深圳河套学院攻读博士】</font>
 
 - 欢迎计算机基础较好，<font color=red> 代码能力强</font>，<font color=blue> 有志从事科研、勇于挑战、有责任心</font>的同学联系我，也欢迎优秀的本科生加入 
