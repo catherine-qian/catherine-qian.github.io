@@ -25,6 +25,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 <font color=red> 【课题组经费充足，科研氛围浓厚】</font>
 
+- <font color=red> 【招收2026年入学保研学生(空余一个名额)】</font>
 
 - <font color=red> 【招收2027年入学保研学生】</font>
 - <font color=red> 【招收2027年入学博士研究生】</font>
