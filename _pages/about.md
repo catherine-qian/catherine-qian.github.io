@@ -32,7 +32,11 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - <font color=green> 【招收科研助理或实习生（可远程），适当提供补贴，可推荐至香港中文大学（深圳），意大利FBK研究所，深圳河套学院攻读博士】</font>
 
 - 欢迎计算机基础较好，<font color=red> 代码能力强</font>，<font color=blue> 有志从事科学研究（毕业后去高校或研究所、著名公司从事研发工作，或出国攻读博士(后)等）、勇于挑战、有责任心</font>的同学联系我，也欢迎优秀的本科生加入 
-(附CV及自我介绍，qianxy@ustb.edu.cn) 邮件主题请按照如下格式：“20XX年硕士/博士/RA申请-姓名-硕士与本科学校名称”
+
+<embed src="本科招生.pdf" type="application/pdf" width="100%" height="600px">
+
+
+- (附CV及自我介绍，qianxy@ustb.edu.cn) 邮件主题请按照如下格式：“20XX年硕士/博士/RA申请-姓名-硕士与本科学校名称()”
 
 你将获得：
 - 海内外名校导师联合指导
