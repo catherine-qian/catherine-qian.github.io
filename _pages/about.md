@@ -39,10 +39,13 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 - 欢迎计算机基础较好，<font color=red> 代码能力强</font>，<font color=blue> 有志从事科学研究（毕业后去高校或研究所、著名公司从事研发工作，或出国攻读博士(后)等）、勇于挑战、有责任心</font>的同学联系我，也欢迎优秀的本科生加入。
 
-- (附CV及自我介绍，qianxy@ustb.edu.cn) 邮件主题请按照如下格式：<font color=blue>“20XX年硕士/博士/RA申请-姓名-硕士与本科学校名称”</font>，并注明<font color=red> "已了解招生规则"</font>。
+- (附CV及自我介绍，qianxy@ustb.edu.cn) 邮件主题请按照如下格式：<font color=blue>“20XX年本科/RA/硕士/博士申请-姓名-硕士与本科学校名称”</font>，并注明<font color=red> “已了解招生规则"</font>。
 
 <a href="本科招生.pdf" target="_blank">本科招生规则</a>
+
 <a href="硕士招生.pdf" target="_blank">硕士招生规则</a>
+
+<a href="博士招生说明.pdf" target="_blank">博士招生规则</a>
 
 🔥 News
 - 2026.01	six ICASSP paper accepted!
