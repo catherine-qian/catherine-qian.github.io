@@ -21,7 +21,7 @@ I am currently an Associate Professor at University of Science and Technology Be
 
 My research interest mainly focuses on audio-visual fusion, includes speech processing, speaker localization and tracking, active speaker detection, gesture synthesis, automatic speech recognition. I have published more than 30 papers at the top-tiered international AI journals/conferences such as TMM, TASLP, TII, ACM MM, ICRA ICASSP, INTERSPEECH.
 
-🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态人机交互**研究，学生可以根据兴趣自由选择 
+🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态大模型**研究，学生可以根据兴趣自由选择 
 
 <font color=red> 【课题组经费充足，科研氛围浓厚】</font>
 
@@ -58,6 +58,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
  
 # 📜 Research Area
+<font color=black> 多模态大模型及其应用：</font>
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; 
