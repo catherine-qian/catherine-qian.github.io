@@ -21,7 +21,7 @@ I am currently an Associate Professor at University of Science and Technology Be
 
 My research interest mainly focuses on audio-visual fusion, includes speech processing, speaker localization and tracking, active speaker detection, gesture synthesis, automatic speech recognition. I have published more than 30 papers at the top-tiered international AI journals/conferences such as TMM, TASLP, TII, ACM MM, ICRA ICASSP, INTERSPEECH.
 
-🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态大模型**研究，学生可以根据兴趣自由选择 
+🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态大模型、具身智能**研究，学生可以根据兴趣自由选择 
 
 <font color=red> 【课题组经费充足，科研氛围浓厚】</font>
 
@@ -30,8 +30,6 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - 参加国内/国际会议的机会
 - 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
 
-
-- <font color=red> 【招收2026年入学保研学生(空余一个名额)，26.4.22日更新】</font>
 
 - <font color=red> 【招收2027年入学保研学生】</font>
 - <font color=red> 【招收2027年入学博士研究生】</font>
@@ -48,6 +46,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 <a href="博士招生说明.pdf" target="_blank">博士招生规则</a>
 
 🔥 News
+- 2026.07	two ACM MM paper accepted!
 - 2026.01	six ICASSP paper accepted!
 - 2025.09	获评ACM新星奖（北京）
 - 2025.07	入选北京市“高创计划”青年托举人才
