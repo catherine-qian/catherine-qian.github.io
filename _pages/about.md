@@ -33,7 +33,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 - <font color=red> 【招收2027年入学保研学生】</font>
 - <font color=red> 【招收2027年入学博士研究生】</font>
-- <font color=green> 【招收科研助理或实习生（可远程），适当提供补贴，可推荐至香港中文大学（深圳），意大利FBK研究所，深圳河套学院攻读博士】</font>
+- <font color=green> 【长期招收科研助理或实习生（可远程），适当提供补贴，可推荐至香港中文大学（深圳），意大利FBK研究所，深圳河套学院攻读博士】</font>
 
 - 欢迎计算机基础较好，<font color=red> 代码能力强</font>，<font color=blue> 有志从事科学研究（毕业后去高校或研究所、著名公司从事研发工作，或出国攻读博士(后)等）、勇于挑战、有责任心</font>的同学联系我，也欢迎优秀的本科生加入。
 
@@ -46,6 +46,9 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 <a href="博士招生说明.pdf" target="_blank">博士招生规则</a>
 
 🔥 News
+- 2026.10	入选中国电子学会青年托举人才
+- 2026.09 	one NCMMSC paper accepted!
+- 2026.08   one TCDS paper accepted!
 - 2026.07	two ACM MM paper accepted!
 - 2026.01	six ICASSP paper accepted!
 - 2025.09	获评ACM新星奖（北京）
