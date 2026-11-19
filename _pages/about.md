@@ -46,7 +46,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 <a href="博士招生说明.pdf" target="_blank">博士招生规则</a>
 
 🔥 News
-- 2026.10	Dr. Qian担任TASLP的副编辑Associate Editor(AE)
+- 2026.10	Dr. Qian担任国际语音顶刊TASLP的副编辑Associate Editor(AE)
 - 2026.09 	入选中国电子学会青年托举人才
 - 2026.09 	one NCMMSC paper accepted!
 - 2026.08   one TCDS paper accepted!
